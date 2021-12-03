@@ -1,5 +1,5 @@
 # word2vec
-Genre classification by lyrics in word2vec embedding.
+Genre classification by lyrics with word2vec embedding.
 
 ## Notebook
 - Word2vec train note
